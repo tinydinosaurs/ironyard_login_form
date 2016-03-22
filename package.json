@@ -1,0 +1,22 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "login form",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinydinosaurs/ironyard_login_form.git"
+  },
+  "author": "me!",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinydinosaurs/ironyard_login_form/issues"
+  },
+  "homepage": "https://github.com/tinydinosaurs/ironyard_login_form#readme",
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
